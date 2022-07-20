@@ -1,0 +1,19 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "ws": "3.3.2"
+  }
+}
