@@ -1,16 +1,18 @@
-## Node-and-Expressjs
-This is my code for NodeJS And Express Tutorial Course
+# Node and Express Tutorial
+
+#### Node Course
 
 #### Contents
-01. Node Tutorial
-02. Express Tutorial
-03. Task Manager (MongoDB, Mongoose)
-04. Store API
-05. JWT Basics
-06. Jobs API
-07. File Upload (local and cloudinary)
-08. Send Email (nodemailer,ethereal and sendgrid )
-09. Stripe Payment
+
+1. Node Tutorial
+2. Express Tutorial
+3. Task Manager (MongoDB, Mongoose)
+4. Store API
+5. JWT Basics
+6. Jobs API
+7. File Upload (local and cloudinary)
+8. Send Email (nodemailer,ethereal and sendgrid )
+9. Stripe Payment
 10. E-Commerce API
 11. Auth Workflow (verify email, reset password)
 12. Sessions
