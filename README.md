@@ -15,4 +15,3 @@
 9. Stripe Payment
 10. E-Commerce API
 11. Auth Workflow (verify email, reset password)
-12. Sessions
